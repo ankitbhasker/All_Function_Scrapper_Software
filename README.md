@@ -153,3 +153,4 @@ The web app has a limit of 100MB. Once this limit is reached, the app will not b
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ankitkbhasker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-bhasker/) &nbsp; &nbsp;
 <a href ="mailto:bhaskerankit5@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 
+https://allfunctionscrappersoftware-t6x4ag9oaq3i9viu9xhzdm.streamlit.app/
